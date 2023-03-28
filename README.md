@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 🌳 I’m looking to collaborate on Anyone who want's to be friends
 - 💪 I love that rush you get when you finally solve an error.
-- 🌱 Some hobbies of mine include going to coffee shops, tasting new foods, adventureing in the city and working out!
+- 🌱 Some hobbies of mine include going to coffee shops, tasting new foods, adventureing in the city and working out! :)
 
 
