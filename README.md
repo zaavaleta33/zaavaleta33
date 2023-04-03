@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Alexander Zavaleta
-- 👀 I’m interested in webdev, Machine Learning, AI,Algorithms ,and C++
+- 👀 I’m interested in webdev, Machine Learning, AI,Algorithms ,and C++.
 - 🌱 I’m currently learning Machine Learning
 - 🌳 Looking to collaborate with all of those that are amazing people.
 - 💪 I love that rush you get when you finally solve an error.
