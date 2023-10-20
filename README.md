@@ -6,4 +6,4 @@
 - 🌱 Some hobbies of mine include going to coffee shops, tasting new foods, adventureing into the city and working out! :)
 - 👾 Coding Langueges I know: C++, C, html, CSS, javascprit, python, and Swift
 - 🏳️Languages I know: English, and Spanish 
-
+/*If you have any leetcode questions that may be helpful send them my way*/
