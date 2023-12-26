@@ -7,4 +7,3 @@
 - 👾 Coding Langueges I know: C++, C, html, CSS, javascprit, python, Swift, and Assembly
 -  I have recently been working on building react native app's on ios and android.
 - 🏳️Languages I know: English, and Spanish 
-- 👍🏽 Also If you have any leetcode questions that may be helpful send them my way
